@@ -16,14 +16,14 @@ import Footer from './Footer';
 
 // import { createStore, applyMiddleware } from 'redux';
 
-import store from '../store';
+// import store from '../store';
 
 // const store = createStore(() => [], {}, applyMiddleware());
 
 export default class App extends Component {
     render() {
         return (
-            <Provider store={store}>
+            // <Provider store={store}>
             <BrowserRouter>
                 <div>
                     <Header />
@@ -43,7 +43,7 @@ export default class App extends Component {
                     <Footer />
                 </div>
             </BrowserRouter>
-            </Provider>
+            // </Provider>
         );
     }
 }

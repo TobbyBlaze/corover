@@ -16,12 +16,12 @@ const Header = () => (
             </button>
             <div className="collapse navbar-collapse h-auto" id="navbarSupportedContent">
                 <ul className="navbar-nav ml-auto menu hea">
-                    <Link to='/Corover/public/' className="hea"><h4>Home &nbsp;</h4>  </Link>
+                    <Link to='/' className="hea"><h4>Home &nbsp;</h4>  </Link>
                     {/* <Link to='/project/Corover/public/' className="hea"><h4>Home &nbsp;</h4>  </Link> */}
                     {/* <Link  to='/Corover/public/histories' className="hea"><h4>History &nbsp;</h4></Link> */}
-                    <Link  to='/Corover/public/diagnosis' className="hea"><h4>Quick diagnosis &nbsp;</h4></Link>
+                    <Link  to='/diagnosis' className="hea"><h4>Quick diagnosis &nbsp;</h4></Link>
                     {/* <Link  to='/project/Corover/public/diagnosis' className="hea"><h4>Quick diagnosis &nbsp;</h4></Link> */}
-                    <Link to='/Corover/public/about' className="hea"><h4>About</h4></Link>
+                    <Link to='/about' className="hea"><h4>About</h4></Link>
                     {/* <Link to='/project/Corover/public/about' className="hea"><h4>About</h4></Link> */}
                 </ul>
             </div>
