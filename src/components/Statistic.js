@@ -102,7 +102,7 @@ export default class Statistic extends Component{
         //     }  
         // }
 
-        // statistics.sort(GetSortOrder("country")); //Pass the attribute to be sorted on  
+        statistics.sort(GetSortOrder("country")); //Pass the attribute to be sorted on  
         // document.write("Sorted Active cases : ");  
         // for (var item in statistics) {  
         //     // document.write("<br>" + statistics[item].country);  
