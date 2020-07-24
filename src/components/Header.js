@@ -7,7 +7,7 @@ const Header = () => (
     <nav className="navbar navbar-expand-lg fixed-top custom-nav hea">
         <div className="container hea">
             {/* <Link className="navbar-brand" to='/Corover/public/'> */}
-            <Link className="navbar-brand" to='/project/Corover/public/'>
+            <Link className="navbar-brand" to='/'>
                 <img src="corover1.png" width="80" alt="logo" className="img-fluid"/>
             </Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
