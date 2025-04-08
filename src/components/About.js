@@ -18,7 +18,7 @@ function About() {
           <h4 style={styles.header}>Download the Android App</h4>
           <p style={styles.text}>
             For a seamless experience on the go, download the CoRover Android app by clicking{' '}
-            <a href="Corover.apk" style={styles.link} download>
+            <a href="Corover_v1.apk" style={styles.link} download>
               here
             </a>.
           </p>
