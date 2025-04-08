@@ -25,15 +25,15 @@ function About() {
         </div>
         <div style={styles.cardSmall}>
           <img src="pic1.jpg" alt="Muritala Tobi" style={styles.profileImage} />
-          <h4 style={styles.profileName}>Muritala Tobi</h4>
-          <p style={styles.profileRole}>Humanitarian</p>
-          <p style={styles.profileRole}>Full Stack Developer</p>
-          <p style={styles.profileRole}>Data Science Enthusiast</p>
+          <h4 style={styles.profileName}>Tobi Muritala</h4>
+          <p style={styles.profileRole}>Software engineer</p>
+          <p style={styles.profileRole}>Data scientist</p>
+          <p style={styles.profileRole}>Email: muritala.mt@outlook.com</p>
         </div>
       </div>
       <div style={styles.contact}>
         <p style={styles.contactText}>
-          Contact <a href="mailto:muritala.mt@gmail.com" style={styles.link}>muritala.mt@gmail.com</a> for any issues pertaining to the website.
+          Contact <a href="mailto:muritala.mt@outlook.com" style={styles.link}>muritala.mt@outlook.com</a> for any issues pertaining to the website.
         </p>
       </div>
     </div>
