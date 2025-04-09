@@ -55,15 +55,15 @@ function Privacy() {
           <p style={styles.text}>
             <strong>9. Contact Us</strong><br />
             If you have any questions or concerns about this Privacy Policy or how Corover handles your data,
-            please contact us at <a href="mailto:muritala.mt@gmail.com" style={styles.link}>muritala.mt@gmail.com</a>.
+            please contact us at <a href="mailto:muritala.mt@outlook.com" style={styles.link}>muritala.mt@outlook.com</a>.
           </p>
           <p style={styles.text}>
             By using Corover, you agree to the terms of this Privacy Policy. We appreciate your trust in Corover as your reliable source for COVID-19 updates and self-diagnosis.
           </p>
         </div>
-        <div style={styles.cardMedium}>
-          {/* Optional additional content could be placed here */}
-        </div>
+        {/* <div style={styles.cardMedium}>
+          
+        </div> */}
       </div>
     </div>
   );
