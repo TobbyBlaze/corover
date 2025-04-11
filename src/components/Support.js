@@ -13,9 +13,9 @@ function Support() {
             please review our FAQ below or contact our support team for assistance. Our resources cover troubleshooting,
             app performance, and navigation tips to ensure you get the most out of Corover.
           </p>
-          {/* <p style={styles.text}>
-            For detailed help, please visit our FAQ section (accessible from the app's menu) or contact us directly.
-          </p> */}
+          <p style={styles.text}>
+            For detailed help, please visit our FAQ section (accessible from the footer ) or contact us directly.
+          </p>
         </div>
         {/* Download Card */}
         {/* <div style={styles.cardMedium}>
@@ -38,11 +38,11 @@ function Support() {
           </p>
         </div>
       </div>
-      {/* <div style={styles.contact}>
+      <div style={styles.contact}>
         <p style={styles.contactText}>
           Additionally, you can consult our FAQ section within the app for answers to common questions.
         </p>
-      </div> */}
+      </div>
     </div>
   );
 }
