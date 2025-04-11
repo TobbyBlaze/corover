@@ -6,6 +6,7 @@ import Landing from './components/Landing';
 import Statistic from './components/Statistic';
 import Diagnosis from './components/Diagnosis';
 import About from './components/About';
+import Support from './components/Support';
 import Privacy from './components/Privacy';
 // import ChartComponent from './components/Chart';
 import Youtube from './components/Youtube';
@@ -22,6 +23,7 @@ export default class App extends Component {
             <Route path="/" element={<Statistic />} />
             <Route path="/diagnosis" element={<Diagnosis />} />
             <Route path="/about" element={<About />} />
+            <Route path="/support" element={<Support />} />
             <Route path="/privacy-policy" element={<Privacy />} />
           </Routes>
           {/* <ChartComponent /> */}
