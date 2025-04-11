@@ -14,7 +14,7 @@ function Privacy() {
             <strong>1. Introduction</strong><br />
             Corover is dedicated to providing live COVID-19 updates and a quick self-diagnosis tool.
             We value your privacy and are committed to ensuring that your information remains secure.
-            This Privacy Policy explains how our app available on both mobile and web—handles your data.
+            This Privacy Policy explains how our app available on both mobile and web handles your data.
           </p>
           <p style={styles.text}>
             <strong>2. Data We Collect</strong><br />
