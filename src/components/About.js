@@ -8,7 +8,7 @@ function About() {
         <div style={styles.cardLarge}>
           <h4 style={styles.header}>About</h4>
           <p style={styles.text}>
-            CoRover is a website specifically developed to provide live updates on the global COVID-19 pandemic and offer rapid self‐diagnosis for individuals exhibiting symptoms. 
+            Corover is a website specifically developed to provide live updates on the global COVID-19 pandemic and offer rapid self‐diagnosis for individuals exhibiting symptoms. 
           </p>
           <p style={styles.text}>
             The platform serves as a reliable resource during these challenging times, urging everyone to stay at home and follow the recommended precautions for preventing the spread of the virus.
@@ -16,10 +16,19 @@ function About() {
         </div>
         <div style={styles.cardMedium}>
           <h4 style={styles.header}>Download the Android App</h4>
-          <p style={styles.text}>
-            For a seamless experience on the go, download the CoRover Android app by clicking{' '}
+          {/* <p style={styles.text}>
+            For a seamless experience on the go, download the Corover Android app by clicking{' '}
             <a href="Corover_v1.apk" style={styles.link} download>
               here
+            </a>.
+          </p> */}
+          <p style={styles.text}>
+            For a seamless experience on the go, download the Corover mobile app on{' '}
+            <a href="https://play.google.com/store/apps/details?id=co.uk.tobistech.corover" style={styles.link}>
+              Google Play Store
+            </a> or {' '}
+            <a href="#" style={styles.link}>
+              Apple App Store
             </a>.
           </p>
         </div>

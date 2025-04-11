@@ -7,15 +7,15 @@ function Support() {
       <div style={styles.row}>
         {/* Technical Support / FAQ Card */}
         <div style={styles.cardLarge}>
-          <h4 style={styles.text}>Technical Support</h4>
+          <h4 style={styles.header}>Technical Support</h4>
           <p style={styles.text}>
             Welcome to Corover Support. If you encounter any issues or have questions about using the app,
             please review our FAQ below or contact our support team for assistance. Our resources cover troubleshooting,
             app performance, and navigation tips to ensure you get the most out of Corover.
           </p>
-          <p style={styles.text}>
+          {/* <p style={styles.text}>
             For detailed help, please visit our FAQ section (accessible from the app's menu) or contact us directly.
-          </p>
+          </p> */}
         </div>
         {/* Download Card */}
         {/* <div style={styles.cardMedium}>
