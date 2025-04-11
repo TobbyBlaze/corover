@@ -7,7 +7,6 @@ import Statistic from './components/Statistic';
 import Diagnosis from './components/Diagnosis';
 import About from './components/About';
 import Support from './components/Support';
-import Support from './components/Support';
 import Faq from './components/Faq';
 // import ChartComponent from './components/Chart';
 import Youtube from './components/Youtube';
