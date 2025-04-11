@@ -8,13 +8,13 @@ function Privacy() {
         <div style={styles.cardLarge}>
           <h4 style={styles.header}>Privacy Policy for Corover</h4>
           <p style={styles.text}>
-            <strong>Last Updated:</strong> [Insert Date]
+            <strong>Last Updated:</strong> 11th of April, 2025.
           </p>
           <p style={styles.text}>
             <strong>1. Introduction</strong><br />
             Corover is dedicated to providing live COVID-19 updates and a quick self-diagnosis tool.
             We value your privacy and are committed to ensuring that your information remains secure.
-            This Privacy Policy explains how our app—available on both mobile and web—handles your data.
+            This Privacy Policy explains how our app available on both mobile and web—handles your data.
           </p>
           <p style={styles.text}>
             <strong>2. Data We Collect</strong><br />
@@ -28,13 +28,12 @@ function Privacy() {
           </p>
           <p style={styles.text}>
             <strong>4. Usage Data and Tracking</strong><br />
-            Corover does not actively track your app usage or behavior. Although the app is built with React Native and Expo,
-            no extra analytics or tracking tools are implemented beyond those inherent in our open-source libraries.
+            Corover does not actively track your app usage or behavior. No extra analytics or tracking tools are implemented beyond those inherent in our open-source libraries.
             Any data processed by these libraries stays local to your device and is not transmitted.
           </p>
           <p style={styles.text}>
             <strong>5. Third-Party Services</strong><br />
-            Corover uses only the libraries and dependencies specified in our package.json file.
+            {/* Corover uses only the libraries and dependencies specified in our package.json file. */}
             No third-party services receive, access, or store your data.
           </p>
           <p style={styles.text}>
