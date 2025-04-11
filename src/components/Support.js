@@ -7,7 +7,7 @@ function Support() {
       <div style={styles.row}>
         {/* Technical Support / FAQ Card */}
         <div style={styles.cardLarge}>
-          <h4 style={styles.header}>Technical Support</h4>
+          <h4 style={styles.text}>Technical Support</h4>
           <p style={styles.text}>
             Welcome to Corover Support. If you encounter any issues or have questions about using the app,
             please review our FAQ below or contact our support team for assistance. Our resources cover troubleshooting,
@@ -18,7 +18,7 @@ function Support() {
           </p>
         </div>
         {/* Download Card */}
-        <div style={styles.cardMedium}>
+        {/* <div style={styles.cardMedium}>
           <h4 style={styles.header}>Download the Android App</h4>
           <p style={styles.text}>
             For the best experience on mobile devices, please download the latest version of the Corover Android app by clicking{' '}
@@ -26,7 +26,7 @@ function Support() {
               here
             </a>.
           </p>
-        </div>
+        </div> */}
         {/* Contact Support Card */}
         <div style={styles.cardSmall}>
           <h4 style={styles.header}>Contact Support</h4>
@@ -38,11 +38,11 @@ function Support() {
           </p>
         </div>
       </div>
-      <div style={styles.contact}>
+      {/* <div style={styles.contact}>
         <p style={styles.contactText}>
           Additionally, you can consult our FAQ section within the app for answers to common questions.
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
