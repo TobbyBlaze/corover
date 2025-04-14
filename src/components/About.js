@@ -27,7 +27,7 @@ function About() {
             <a href="https://play.google.com/store/apps/details?id=co.uk.tobistech.corover" style={styles.link}>
               Google Play Store
             </a> or {' '}
-            <a href="#" style={styles.link}>
+            <a href="https://apps.apple.com/gb/app/corover/id6743448447" style={styles.link}>
               Apple App Store
             </a>.
           </p>
